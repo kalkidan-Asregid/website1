@@ -1,0 +1,57 @@
+KALKIDAN ASREGID
+Software Developer and Data Analyst
+
+Contact
+- Email: kalkidanasregid@gmail.com
+- Phone: +82 10-9804-1348
+- Address: Ward No-13, Old Post Office Road, Khajuwala, Seoul, South Korea
+- LinkedIn: https://www.linkedin.com/in/kalkidan-abate-1a506627b/
+
+Achievements
+- HackerRank Silver Badge (SQL) – 305+ points
+- Continuous self-learning with practical software and data projects
+
+Education
+Bachelor of Science in Computer Science, GPA: 3.53/4.0
+University of the People, Online (United States)
+April 2024 – Present
+Relevant Coursework: Data Structures, Database Systems, Web Development
+
+Diploma in Pharmacy Technician
+Alkan Health Science College, Ethiopia
+2016 – 2019
+Relevant Training: Pharmacology, Drug Dispensing, Pharmaceutical Calculations
+
+Experience
+Junior Front-End Developer (Personal Projects)
+2025 – Present | Self-Learning
+- Developed multiple responsive web pages using HTML5 and CSS3
+- Built structured forms with input validation using required fields and pattern attributes
+- Implemented JavaScript for client-side validation and dynamic user interaction
+- Designed user-friendly UI layouts with tables, hover effects, and anchor navigation
+
+Projects
+Travel Destinations Website (HTML & CSS Project), 2025
+- Created a styled travel showcase webpage using HTML and CSS
+- Implemented internal anchor navigation for smooth page linking
+- Designed responsive table layout with hover effects and image transitions
+- Integrated external images and structured content presentation
+
+Student Registration System (JavaScript DOM Project), 2025
+- Built interactive student registration form using HTML, CSS, and JavaScript
+- Implemented client-side validation and dynamic success messages
+- Practiced event handling and DOM manipulation
+- Automated form clearing and user feedback after submission
+
+Skills
+- Programming: JavaScript, Java, Python
+- Web: HTML, CSS
+- Databases: SQL
+- Tools: Git
+
+Languages
+- English
+- Amharic
+
+Area of Interest
+- Data Analyst
